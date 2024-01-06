@@ -58,4 +58,4 @@ Bearer Token Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyRXhpc3QiOnsiX2l
 
 Some Points -
 
-We can also use Bcrypt to Encrypt Token.
+We can also use Bcrypt to Encrypt Password.
